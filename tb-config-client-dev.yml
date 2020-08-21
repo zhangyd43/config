@@ -1,5 +1,5 @@
 my:
-  age: 18
+  age: 25
 spring:
   rabbitmq:
     host: localhost
